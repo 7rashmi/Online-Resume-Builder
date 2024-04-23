@@ -1,3 +1,6 @@
+![signup](https://github.com/7rashmi/Online-Resume-Builder/assets/116192898/72949645-0f79-4aec-9138-c608d3996181)
+![welcome](https://github.com/7rashmi/Online-Resume-Builder/assets/116192898/e09b75bc-f3bc-4d21-8789-0a1a36c46916)
+![details](https://github.com/7rashmi/Online-Resume-Builder/assets/116192898/bbf4d199-df77-47d9-b1d0-29732cd6ed3e)
 # INtroduction
 This project is a web-based resume builder developed using XAMPP. It allows users to create professional resumes by providing their personal and professional details through a user-friendly interface.
 ## Features
